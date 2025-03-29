@@ -2,3 +2,4 @@ Hello there!!!
 This is the second line fyi.
 To find out the diff
 Checking out the status for line 4
+git log diff test
